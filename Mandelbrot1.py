@@ -66,25 +66,3 @@ def get_mandelbrot(array, max_iter):
 if __name__ == '__main__':
     main()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
